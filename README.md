@@ -30,7 +30,3 @@ npm run dev
 ```
 
 The frontend uses `VITE_API_BASE_URL` for the backend URL. If not set, it defaults to a local backend URL.
-
-## Safety Scope
-
-This project is generated for safe, legal, publishable software development. It must not include secrets, malware, credential theft, exploit automation, stealth, evasion, or unsafe attack functionality.
